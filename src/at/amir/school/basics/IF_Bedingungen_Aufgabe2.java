@@ -1,3 +1,4 @@
+package at.amir.school.basics;
 
 import java.util.Random;
 
