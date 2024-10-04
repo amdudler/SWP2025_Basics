@@ -12,7 +12,7 @@ public class Switch_Statement_Aufgabe1 {
         switch (randomNumber) {
             case 10:
                 System.out.println("Ten");
-        break;
+                break;
 // Wenn der Wert 9 ist gib aus Nine
             case 9:
                 System.out.println("Nine");
@@ -32,6 +32,6 @@ public class Switch_Statement_Aufgabe1 {
             case 5:
                 System.out.println("Five");
 
-     }
+        }
     }
 }
