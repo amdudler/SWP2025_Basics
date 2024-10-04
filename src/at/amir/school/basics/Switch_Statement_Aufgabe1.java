@@ -4,10 +4,9 @@ import java.util.Random;
 
 public class Switch_Statement_Aufgabe1 {
     public static void main(String[] args) {
-
 // Erstelle eine Zufallszahl zwischen 5 und 10
         Random random = new Random();
-        int randomNumber = random.nextInt(10);
+        int randomNumber = 5 + random.nextInt(6);
 // Wenn der Wert 10 ist gib aus Ten
         switch (randomNumber) {
             case 10:
@@ -25,7 +24,6 @@ public class Switch_Statement_Aufgabe1 {
             case 7:
                 System.out.println("Seven");
                 break;
-
             case 6:
                 System.out.println("Six");
                 break;
