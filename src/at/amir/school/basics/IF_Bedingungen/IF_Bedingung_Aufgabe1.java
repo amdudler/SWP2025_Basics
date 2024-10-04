@@ -1,4 +1,4 @@
-package at.amir.school.basics;
+package at.amir.school.basics.IF_Bedingungen;
 
 
 import java.util.Random;
