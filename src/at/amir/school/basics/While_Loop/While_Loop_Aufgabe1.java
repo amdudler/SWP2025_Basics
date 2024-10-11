@@ -1,4 +1,4 @@
-package at.amir.school.basics;
+package at.amir.school.basics.While_Loop;
 
 import java.util.Random;
 
