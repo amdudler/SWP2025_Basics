@@ -50,7 +50,7 @@ public class Bankomat {
                     break;
 
                 default:
-                    System.out.println("Ihre Eingabe ist ungültig! Bitte geben Sie einen richtigen Betrag an!");
+                    System.out.println("Ihre Eingabe ist ungültig! Bitte geben Sie eine Zahl von 1 bis 4 an!");
             }
         }
     }
