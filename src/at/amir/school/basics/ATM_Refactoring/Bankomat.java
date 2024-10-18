@@ -1,5 +1,4 @@
 package at.amir.school.basics.ATM_Refactoring;
-
 import java.util.Scanner;
 
 public class Bankomat {
