@@ -1,4 +1,4 @@
-package at.amir.school.basics.KW2_Stunde1.inheritance1;
+package at.amir.school.basics.KW2.Stunde1.AufgabeStunde;
 
 public class Figur {
     private double xpos = 100.0, ypos = 100.0;

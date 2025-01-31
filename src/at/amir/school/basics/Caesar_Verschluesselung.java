@@ -15,7 +15,14 @@ public class Caesar_Verschluesselung {
     }
 
     public static String encrypt(String s, int offset) {
-
+        String result = "";
+        for (char c : s.toCharArray()) {
+            if (c >= 'a' && c <= 'z') {
+                result += (char) (((c - 'a' + offset) % 26) + 'a');
+            } else {
+                result += c;
+            }
         }
+        return result;
     }
 }
