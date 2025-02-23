@@ -22,14 +22,14 @@ public class Bankomat {
 
             switch (option) {
                 case 1:
-                    System.out.print("Wie viel wollen Sie einzahlen?");
+                    System.out.print("Wie viel wollen Sie Einzahlen?");
                     double einzahlen = scanner.nextDouble();
                     kontostand += einzahlen;
                     System.out.println("Es wurden " + einzahlen + "€ eingezahlt. Ihr neuer Kontostand beträgt " + kontostand + "€");
                     break;
 
                 case 2:
-                    System.out.print("Wie viel wollen Sie abheben? ");
+                    System.out.print("Wie viel wollen Sie Abheben? ");
                     double abheben = scanner.nextDouble();
                     if (abheben <= kontostand) {
                         kontostand -= abheben;

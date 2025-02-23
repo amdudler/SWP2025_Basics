@@ -1,6 +1,6 @@
 package at.amir.school.basics.KW2.Stunde1.AufgabeStunde.Aufgabe1;
 
-import at.amir.school.basics.KW2.inheritance1.inheritance2.Vehicle;
+import at.amir.school.basics.KW2.Stunde1.AufgabeStunde.Aufgabe1.Vehicle;
 
 class Car extends Vehicle {
     private int numberOfDoors;

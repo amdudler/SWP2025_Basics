@@ -1,6 +1,6 @@
 package at.amir.school.basics.KW2.Stunde2.Aufgabe1;
 
-import at.amir.school.basics.KW2.inheritance1.inheritance3.Rectangle;
+import at.amir.school.basics.KW2.Stunde2.Aufgabe1.Rectangle;
 
 public class Main {
     public static void main(String[] args) {

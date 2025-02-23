@@ -1,6 +1,6 @@
 package at.amir.school.basics.KW2.Stunde2.Aufgabe1;
 
-import at.amir.school.basics.KW2.inheritance1.inheritance3.Shape;
+import at.amir.school.basics.KW2.Stunde2.Aufgabe1.Shape;
 
 class Rectangle extends Shape {
     private double length;
